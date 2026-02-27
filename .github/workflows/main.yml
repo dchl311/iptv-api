@@ -10,6 +10,9 @@ name: 'Update schedule'
 # If scheduled execution is required, use other deployment methods.
 
 on:
+  # 定时触发
+  schedule:
+    - cron: '30 18 * * *'    
   workflow_dispatch:
 
 jobs:
