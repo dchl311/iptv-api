@@ -1,7 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+https://live.zbds.org/tv/iptv4.m3u
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+https://t.freetv.fun/m3u/playlist_all.m3u
 
 
 
