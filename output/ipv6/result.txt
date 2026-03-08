@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 12:07:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-08 12:18:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -100,6 +100,7 @@ CETV-2,https://t.freetv.fun/live/cetv2-1.m3u8
 CETV-2,https://t.freetv.fun/live/cetv2-2.m3u8
 CETV-4,https://t.freetv.fun/live/cetv4.m3u8
 CETV-4,https://t.freetv.fun/live/cetv4-1.m3u8
+CETV-4,https://t.freetv.fun/live/cetv4-2.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
