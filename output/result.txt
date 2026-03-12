@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-11 12:18:38,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-03-12 12:22:07,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -17,8 +17,8 @@ CCTV-3,https://t.freetv.fun/live/cctv3.php
 CCTV-3,https://t.freetv.fun/live/cctv3-1.m3u8
 CCTV-3,https://t.freetv.fun/live/cctv3-2.m3u8
 CCTV-3,https://t.freetv.fun/live/cctv3-3.m3u8
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,https://t.freetv.fun/live/cctv4-1.php
@@ -47,8 +47,8 @@ CCTV-8,https://t.freetv.fun/live/cctv-8gao-qing.m3u8
 CCTV-8,https://t.freetv.fun/live/cctv8.php
 CCTV-8,https://t.freetv.fun/live/cctv8-2.m3u8
 CCTV-8,https://t.freetv.fun/live/cctv8-4.php
-CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,https://t.freetv.fun/live/cctv9.m3u8
@@ -83,10 +83,10 @@ CCTV-15,https://t.freetv.fun/live/cctv15-2.php
 CCTV-15,https://t.freetv.fun/live/cctv15-4.php
 CCTV-15,https://t.freetv.fun/live/cctv15.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-1.php
 CCTV-16,https://t.freetv.fun/live/cctv16-3.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-5.m3u8
-CCTV-16,https://t.freetv.fun/live/cctv16.m3u8
 CCTV-17,https://t.freetv.fun/live/cctv17-5.php
 CCTV-17,https://t.freetv.fun/live/cctv17.php
 CCTV-17,https://t.freetv.fun/live/cctv17-1.php
@@ -112,12 +112,12 @@ CETV-4,https://t.freetv.fun/live/cetv4-2.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-1.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
@@ -126,11 +126,10 @@ CETV-4,https://t.freetv.fun/live/cetv4-2.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 安徽卫视,http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-重庆卫视,http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
@@ -160,6 +159,7 @@ CETV-4,https://t.freetv.fun/live/cetv4-2.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
@@ -176,7 +176,6 @@ CETV-4,https://t.freetv.fun/live/cetv4-2.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
